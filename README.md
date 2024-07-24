@@ -22,7 +22,7 @@ Simplemente introducecel texto en el campo de entrada, y usa el botón para encr
 
 Luego copia el contenido y limpia en capo de texto.
 
-![Copiar](Screenshot_2024-07-22-19-16-58-112_com.android.chrome.png)
+![Copiar](Screenshot_2024-07-22-19-16-38-934_com.android.chrome.png)
 
 Para desencriptar hacer algo similar, pones el texto encriptado y usas el botón desencriptar, y veras el texto original en el campo de salida. 
 
