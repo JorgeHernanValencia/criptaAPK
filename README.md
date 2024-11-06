@@ -8,7 +8,7 @@ https://fad.com.co/cripta
 
 https://cripta.onrender.com
 
-Puedes descargar el APL de la aplicación offline para Android desde el repositorio:
+Puedes descargar el APK de la aplicación offline para Android desde el repositorio:
 
 https://github.com/JorgeHernanValencia/criptaAPK.git
 
